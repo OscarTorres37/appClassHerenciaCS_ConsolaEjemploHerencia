@@ -1,0 +1,7 @@
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\bin\Debug\appClassHerenciaCS_Consola.exe.config
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\bin\Debug\appClassHerenciaCS_Consola.exe
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\bin\Debug\appClassHerenciaCS_Consola.pdb
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\obj\Debug\appClassHerenciaCS_Consola.csproj.AssemblyReference.cache
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\obj\Debug\appClassHerenciaCS_Consola.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\obj\Debug\appClassHerenciaCS_Consola.exe
+C:\Users\oscar\Source\Repos\appClassHerenciaCS_ConsolaEjemploHerencia\appClassHerenciaCS_Consola\obj\Debug\appClassHerenciaCS_Consola.pdb
