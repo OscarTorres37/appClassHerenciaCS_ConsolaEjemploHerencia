@@ -1,0 +1,1 @@
+# appClassHerenciaCS_ConsolaEjemploHerencia
